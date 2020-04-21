@@ -28,14 +28,8 @@ dsf
 
 ffdfsdfdsfdffsfds
 
-`function declareVa(){`
-
-`console.log("dsfdsf");`
-
-`}`
-
 ```javascript
-function declarevar(){
+function declarevar () {
   console.log("I am fine"); 
 }
 ```
